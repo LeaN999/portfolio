@@ -167,9 +167,20 @@ textarea[id=subject] {
 }
 
 .bottom {
-  padding-bottom: 60%;
   background-color: #191919;
+  color:#ddd;
+  padding-bottom:30%;
+  padding-top: 10%;
 }
+
+.footer h2 {
+  color: #af4c61;
+}
+
+.footer{
+  padding-left: 30px;
+}
+
 
 @media screen and (max-width: 1000px){
   .experiences {
